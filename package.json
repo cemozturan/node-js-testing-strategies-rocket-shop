@@ -1,0 +1,29 @@
+{
+  "name": "node-js-testing-strategies-rocket-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.15.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemozturan/node-js-testing-strategies-rocket-shop.git"
+  },
+  "author": "Cem Ozturan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemozturan/node-js-testing-strategies-rocket-shop/issues"
+  },
+  "homepage": "https://github.com/cemozturan/node-js-testing-strategies-rocket-shop#readme"
+}
