@@ -4,3 +4,6 @@ https://app.pluralsight.com/library/courses/nodejs-testing-strategies/table-of-c
 
 "mocha" command will look for a "test" folder. If there isn't a "test" folder and if you run "mocha" in cmd, it'll error. If there is a "test" folder, it won't error even if the folder is empty.
 
+"mocha --reporter doc" veya "mocha -R doc", testlerin output'unu HTML formatinda yapar.
+Dosyaya yazmak icin "mocha --reporter doc > report.html" yapiver.
+
