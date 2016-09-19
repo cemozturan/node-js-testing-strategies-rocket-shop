@@ -10,5 +10,8 @@
     "test": "mocha"
   },
   "author": "Cem Ozturan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
