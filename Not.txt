@@ -1,0 +1,6 @@
+Node.js Testing Strategies
+
+https://app.pluralsight.com/library/courses/nodejs-testing-strategies/table-of-contents
+
+"mocha" command will look for a "test" folder. If there isn't a "test" folder and if you run "mocha" in cmd, it'll error. If there is a "test" folder, it won't error even if the folder is empty.
+
