@@ -12,6 +12,7 @@
   "author": "Cem Ozturan",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.15.1",
     "underscore": "^1.8.3"
   }
 }

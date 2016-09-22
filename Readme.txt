@@ -16,3 +16,6 @@ create first-spec.js
 require(assert)
 describe(a feature) -> describe(a scenario) -> it(does something expected): assert(true)
 
+it.skip
+it.only
+
